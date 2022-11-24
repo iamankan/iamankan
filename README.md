@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+I am a PhD Computer Science student at the University of Kentucky. I am also a Research Assistant at the EduceLab under the supervision of Dr. Brent Seales. I enjoy doing research in Computer Science, specifically in the field of Computer Vision, Computer Graphics and Machine Learning. I am interested in application of these techniques to Digital Humanities.
+
 <!--
 **iamankan/iamankan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
